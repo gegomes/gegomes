@@ -7,7 +7,7 @@
 - ❤❤ Bacharel em Engenharia da computação
 
 - 👯 Atuo desde minha formação na área de desenvolvimento web e mobile, com uso da framework ReactJS e React native,
-  👍  possuo uma grande vivência avançada em HTML, Phyton, CSS, Typescript, Native-Basic, Mysql, Firebase, integração com API.
+-  👍  possuo uma grande vivência avançada em HTML, Phyton, CSS, Typescript, Native-Basic, Mysql, Firebase, integração com API.
 
 ## 💬 Entre em  Contato
 
