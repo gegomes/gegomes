@@ -44,3 +44,13 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-24292f?style=for-the-badge&logo=figma&logoColor=F24E1E" target="_blank">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-24292f?style=for-the-badge&logo=jira&logoColor=0052CC" target="_blank">
 </div>
+
+
+## 📊 status
+<a href="https://github.com/gegomes">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gegomes&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&rank_icon=github&title_color=F34F28&icon_color=F34F28&text_color=FFF6F0" />
+</a>
+<a href="https://github.com/gegomes">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gegomes&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact&title_color=F34F28&text_color=FFF6F0" />
+</a>
+
