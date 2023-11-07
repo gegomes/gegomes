@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://drive.google.com/file/d/1VwXdKpxfjZWOHUqMJssbldVYw5xezb7Z/view]" target="_blank">
+  <a href="https://drive.google.com/file/d/1m3VZPqTrcBvhlEWxjri2kxKc_FAcxRJb/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-24292f?style=for-the-badge&logo=googledocs&logoColor=F34F28" target="_blank">
   </a>
   
