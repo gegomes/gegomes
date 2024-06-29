@@ -1,8 +1,5 @@
 ### Olá, eu sou Geinian Gomes👋
 
-
-- 🔭 Estou em busca de recolocação no mercado de trabalho
-   
 - 📝 Front-end, reactJS, React Native e NodeJS
 - ❤❤ Bacharel em Engenharia da computação
 
